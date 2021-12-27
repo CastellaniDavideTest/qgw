@@ -1,14 +1,11 @@
 # qgw-qgw
-[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/qgw/blob/main/docs/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/CastellaniDavideTest/qgw/blob/main/docs/LICENSE)
 ![Author](https://img.shields.io/badge/author-DavideC03-green?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-all-blue?style=flat) 
 
 ##  Description 
 Repository made with the use of createstructure
-
-
-This repo is made using createstructure and this template:
-![createstructure/default-template](https://opengraph.githubassets.com/d57966ae448b8fc09a3ead520dcec768acda9f5bfc112b4128294b159552c805/qgw)
+![CastellaniDavideTest/qgw](https://opengraph.githubassets.com/5cd02b9eead2f0f621c69171b64036552f709bf1acd663630cca24b53e2f381b/CastellaniDavideTest/qgw)
 ##  Directory structure 
 
 ```
@@ -43,5 +40,5 @@ Repository made with the use of createstructure
 Made w/ :heart: by Castellani Davide
 
 If you want to contribute you can start with:
-- [Discussion](https://github.com/qgw/discussions)
-- [Issue](https://github.com/qgw/issues/new)
+- [Discussion](https://github.com/CastellaniDavideTest/qgw/discussions)
+- [Issue](https://github.com/CastellaniDavideTest/qgw/issues/new)
