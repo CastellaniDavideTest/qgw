@@ -5,7 +5,7 @@
 
 ##  Description 
 Repository made with the use of createstructure
-![CastellaniDavideTest/qgw](https://opengraph.githubassets.com/23bfc9f5e0cbd4eebf410f21c1ddfb4b97bca0bf0774025585a30da30a69e156/CastellaniDavideTest/qgw)
+![CastellaniDavideTest/qgw](https://opengraph.githubassets.com/d5db263661cf944c68bc24d6839eba9a11316ea2d1a10720acf573ea3138f18e/CastellaniDavideTest/qgw)
 ##  Directory structure 
 
 ```
